@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MockitoT</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="userName">用户名：</string>
+    <string name="password">密码：</string>
+</resources>
