@@ -125,7 +125,7 @@ public class PresenterTest {
       //  System.out.println(mockPresenter.add("a","b"));
 
 
-       System.out.println(mockPresenter.add("aa","b"));
+      // System.out.println(mockPresenter.add("aa","b"));
     }
 
 }
